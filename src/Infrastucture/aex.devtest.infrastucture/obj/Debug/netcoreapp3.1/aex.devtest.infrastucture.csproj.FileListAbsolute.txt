@@ -1,0 +1,10 @@
+D:\source\aex.devtest\src\Infrastucture\aex.devtest.infrastucture\bin\Debug\netcoreapp3.1\aex.devtest.infrastucture.deps.json
+D:\source\aex.devtest\src\Infrastucture\aex.devtest.infrastucture\bin\Debug\netcoreapp3.1\aex.devtest.infrastucture.dll
+D:\source\aex.devtest\src\Infrastucture\aex.devtest.infrastucture\bin\Debug\netcoreapp3.1\aex.devtest.infrastucture.pdb
+D:\source\aex.devtest\src\Infrastucture\aex.devtest.infrastucture\obj\Debug\netcoreapp3.1\aex.devtest.infrastucture.csproj.AssemblyReference.cache
+D:\source\aex.devtest\src\Infrastucture\aex.devtest.infrastucture\obj\Debug\netcoreapp3.1\aex.devtest.infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\aex.devtest\src\Infrastucture\aex.devtest.infrastucture\obj\Debug\netcoreapp3.1\aex.devtest.infrastucture.AssemblyInfoInputs.cache
+D:\source\aex.devtest\src\Infrastucture\aex.devtest.infrastucture\obj\Debug\netcoreapp3.1\aex.devtest.infrastucture.AssemblyInfo.cs
+D:\source\aex.devtest\src\Infrastucture\aex.devtest.infrastucture\obj\Debug\netcoreapp3.1\aex.devtest.infrastucture.csproj.CoreCompileInputs.cache
+D:\source\aex.devtest\src\Infrastucture\aex.devtest.infrastucture\obj\Debug\netcoreapp3.1\aex.devtest.infrastucture.dll
+D:\source\aex.devtest\src\Infrastucture\aex.devtest.infrastucture\obj\Debug\netcoreapp3.1\aex.devtest.infrastucture.pdb

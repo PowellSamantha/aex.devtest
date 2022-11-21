@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2nTUK7+f9MeIpVMaOFLQ8dkMx2KqMvJW3dq6Z4eZAaM=",
+  "Source": "aex.devtest.application",
+  "BasePath": "_content/aex.devtest.application",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

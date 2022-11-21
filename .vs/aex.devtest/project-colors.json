@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4d4f0120-2873-43f6-a9a0-cb3146f86fb3": {
+      "ProjectGuid": "4d4f0120-2873-43f6-a9a0-cb3146f86fb3",
+      "DisplayName": "aex.devtest",
+      "ColorIndex": 0
+    },
+    "2bd62cd3-1cb6-4b7a-83c9-5ebd3ac7a7a8": {
+      "ProjectGuid": "2bd62cd3-1cb6-4b7a-83c9-5ebd3ac7a7a8",
+      "DisplayName": "aex.devtest.application",
+      "ColorIndex": 1
+    },
+    "0be07667-1e58-4962-a4dc-31d6360120f6": {
+      "ProjectGuid": "0be07667-1e58-4962-a4dc-31d6360120f6",
+      "DisplayName": "aex.devtest.domain",
+      "ColorIndex": 2
+    },
+    "429e52b9-1ca4-4d93-93c6-c22bc3d148a8": {
+      "ProjectGuid": "429e52b9-1ca4-4d93-93c6-c22bc3d148a8",
+      "DisplayName": "aex.devtest.infrastucture",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

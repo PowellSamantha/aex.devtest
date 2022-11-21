@@ -1,0 +1,10 @@
+D:\source\aex.devtest\src\Domain\aex.devtest.domain\bin\Debug\netcoreapp3.1\aex.devtest.domain.deps.json
+D:\source\aex.devtest\src\Domain\aex.devtest.domain\bin\Debug\netcoreapp3.1\aex.devtest.domain.dll
+D:\source\aex.devtest\src\Domain\aex.devtest.domain\bin\Debug\netcoreapp3.1\aex.devtest.domain.pdb
+D:\source\aex.devtest\src\Domain\aex.devtest.domain\obj\Debug\netcoreapp3.1\aex.devtest.domain.csproj.AssemblyReference.cache
+D:\source\aex.devtest\src\Domain\aex.devtest.domain\obj\Debug\netcoreapp3.1\aex.devtest.domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\aex.devtest\src\Domain\aex.devtest.domain\obj\Debug\netcoreapp3.1\aex.devtest.domain.AssemblyInfoInputs.cache
+D:\source\aex.devtest\src\Domain\aex.devtest.domain\obj\Debug\netcoreapp3.1\aex.devtest.domain.AssemblyInfo.cs
+D:\source\aex.devtest\src\Domain\aex.devtest.domain\obj\Debug\netcoreapp3.1\aex.devtest.domain.csproj.CoreCompileInputs.cache
+D:\source\aex.devtest\src\Domain\aex.devtest.domain\obj\Debug\netcoreapp3.1\aex.devtest.domain.dll
+D:\source\aex.devtest\src\Domain\aex.devtest.domain\obj\Debug\netcoreapp3.1\aex.devtest.domain.pdb

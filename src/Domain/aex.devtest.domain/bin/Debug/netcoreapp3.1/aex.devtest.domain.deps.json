@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "aex.devtest.domain/1.0.0": {
+        "runtime": {
+          "aex.devtest.domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "aex.devtest.domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
