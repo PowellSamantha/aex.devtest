@@ -54,7 +54,20 @@ namespace aex.devtest.domain.CSV.Services
 
                     for (int i = 0; i < values.Count(); i++)
                     {
-                        props[i].SetValue(vehicle, values[i]);
+                        if (props[i].PropertyType == typeof(Guid))
+                            props[i].SetValue(vehicle, Guid.Parse(values[i].ToString()));
+                        else if (props[i].PropertyType.IsEnum)
+                            props[i].SetValue(vehicle, Enum.Parse(props[i].PropertyType, values[i].ToString(), true));
+                        else if (props[i].PropertyType == typeof(short))
+                            props[i].SetValue(vehicle, short.Parse(values[i].ToString()));
+                        else if (props[i].PropertyType == typeof(byte))
+                            props[i].SetValue(vehicle, byte.Parse(values[i].ToString()));
+                        else if (props[i].PropertyType == typeof(bool))
+                            props[i].SetValue(vehicle, bool.Parse(values[i].ToString()));
+                        else if (props[i].PropertyType == typeof(string))
+                            props[i].SetValue(vehicle, values[i].ToString());
+                        else
+                            throw new Exception($"Property of type '{props[i].PropertyType.Name}' not supported");
                     }
 
                     CalculateAnnualTaxableLevy(vehicle);
@@ -283,7 +296,7 @@ namespace aex.devtest.domain.CSV.Services
             {
                 entry.SlidingExpiration = TimeSpan.FromHours(1);
                 entry.AbsoluteExpirationRelativeToNow = TimeSpan.FromDays(1);
-                return typeof(Vehicle.Models.Vehicle).GetProperties().Where(p => Attribute.IsDefined(p, typeof(OrderAttribute))).OrderBy(p => ((OrderAttribute)p.GetCustomAttributes(typeof(OrderAttribute), false).Single()).Order).ToList();
+                return typeof(Vehicle.Models.Vehicle).GetProperties().Where(p => Attribute.IsDefined(p, typeof(CSVPropertyAttribute))).OrderBy(p => ((CSVPropertyAttribute)p.GetCustomAttributes(typeof(CSVPropertyAttribute), false).Single()).Order).ToList();
             });
 
             return result;

@@ -9,3 +9,4 @@ D:\source\aex.devtest\src\Domain\aex.devtest.domain\obj\Debug\net6.0\aex.devtest
 D:\source\aex.devtest\src\Domain\aex.devtest.domain\obj\Debug\net6.0\aex.devtest.domain.dll
 D:\source\aex.devtest\src\Domain\aex.devtest.domain\obj\Debug\net6.0\ref\aex.devtest.domain.dll
 D:\source\aex.devtest\src\Domain\aex.devtest.domain\obj\Debug\net6.0\aex.devtest.domain.pdb
+D:\source\aex.devtest\src\Domain\aex.devtest.domain\obj\Debug\net6.0\aex.devtest.domain.csproj.AssemblyReference.cache
