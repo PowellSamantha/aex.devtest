@@ -12,7 +12,9 @@ To view the available endpoints, please refer to the Swagger Documentation (http
 
 ### appsettings.json
 
-Dotnet uses a JSONC file format (JSON with comments) to store configuration and secrets. This lives inside the `aex.devtest.application` folder, and comes with a [blank version](./src/Application/aex.devtesat.application/appsettings.json) which describes the available fields.
+Dotnet uses a JSONC file format (JSON with comments) to store configuration and secrets. This lives inside the `aex.devtest.application` folder, and comes with a blank version which describes the available fields.
+
+src/Application/appsettings.json
 
 When running the application locally, the code expects a filled-out version of this file to be available at `src/Application/aex.devtest/appsettings.[ENVIRONMENT].json`.
 
